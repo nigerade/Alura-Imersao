@@ -1,4 +1,5 @@
 // Aula 1 - Com exercício sugerido por IA
+/*
 let valorEmDolar = 30;
 let valorEmEuro = 30;
 let valorEmLibra = 30;
@@ -23,3 +24,5 @@ alert(valorEmDolar + " Dólares para Reais - R$ " + valorEmRealDolar);
 alert(valorEmEuro + " Euro para Reais - R$ " + valorEmRealEuro);
 alert(valorEmLibra + " Libra para Reais - R$ " + valorEmRealLibra);
 alert(valorEmIene + " Iene para Reais - R$ " + valorEmRealIene);
+*/
+
