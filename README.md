@@ -9,3 +9,6 @@ Uso do JavaScript para acessar o que está sendo exibido na tela e obter valores
 Passagem de informações necessárias para o funcionamento das funções por meio de parâmetros;
 Utilização do .endsWith() para verificar se um texto termina com determinados caracteres;
 Demonstração de um exemplo adicional de reatribuição de variável para "limpar" o texto do campo com "".
+
+#imersãodev 
+#alura
