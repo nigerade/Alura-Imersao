@@ -46,7 +46,8 @@ Utilizaremos o input para permitir a entrada de dados diretamente na tela, evita
 <br>
 Jogo de adivinhação
 <br>
-Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é adivinhar esse número.
+Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é adivinhar esse número. 
+Abordando os seguintes tópicos:
 - Realizar o fork do projeto com o template inicial;
 - Realizar testes interativos usando prompt;
 - Criar a lógica do jogo utilizando estruturas condicionais como if e else;
@@ -57,7 +58,7 @@ Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é 
 
 <strong>Aula 3</strong>
 <br>
-Estruturas de dados e como trabalhar com listas
+Estruturas de dados e como trabalhar com listas. Abordando os seguintes tópicos:
 - Criação de uma primeira array de filmes usando a sintaxe [];
 - Uso do método filmes.push("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);
 - Descoberta da quantidade de elementos em uma array com o método array.length;
@@ -85,7 +86,7 @@ Utilizando o input para permitir a entrada de dados diretamente na tela, evitand
 
 <strong>Aula 5</strong>
 <br>
-Tabela de Classificação
+Tabela de Classificação. Será abordado os seguintes tópicos:
 <br>
 - Remover o código estático do HTML;
 - Criar um objeto no JavaScript para cada jogador;
