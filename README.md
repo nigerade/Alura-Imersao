@@ -30,6 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Aula 1
 <br>
 AluraFlix
+<br>
 Utilizaremos o input para permitir a entrada de dados diretamente na tela, evitando a necessidade de inserir informações diretamente no código ou no console. Abordando os seguintes tópicos: 
 - Sintaxe e criação de funções no JavaScript;
 - Integração de funções criadas no JavaScript com o HTML exibido na tela;
@@ -44,6 +45,7 @@ Utilizaremos o input para permitir a entrada de dados diretamente na tela, evita
 Aula 2
 <br>
 Jogo de adivinhação
+<br>
 Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é adivinhar esse número.
 - Realizar o fork do projeto com o template inicial;
 - Realizar testes interativos usando prompt;
