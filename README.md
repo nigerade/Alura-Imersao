@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Aula 1
+<strong>Aula 1</strong>
 <br>
 AluraFlix
 <br>
@@ -42,7 +42,7 @@ Utilizaremos o input para permitir a entrada de dados diretamente na tela, evita
 
 <br>
 
-Aula 2
+<strong>Aula 2</strong>
 <br>
 Jogo de adivinhação
 <br>
@@ -55,7 +55,7 @@ Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é 
 
 <br>
 
-Aula 3
+<strong>Aula 3</strong>
 <br>
 Estruturas de dados e como trabalhar com listas
 - Criação de uma primeira array de filmes usando a sintaxe [];
@@ -68,7 +68,7 @@ Estruturas de dados e como trabalhar com listas
 
 <br>
 
-Aula 4
+<strong>Aula 4</strong>
 <br>
 AluraFlix
 <br>
@@ -83,7 +83,7 @@ Utilizando o input para permitir a entrada de dados diretamente na tela, evitand
 
 <br>
 
-Aula 5
+<strong>Aula 5</strong>
 <br>
 Tabela de Classificação
 - Remover o código estático do HTML;
