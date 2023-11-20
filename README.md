@@ -96,7 +96,7 @@ Tabela de Classificação. Será abordado os seguintes tópicos:
   
 <br>
 
-Você pode ver o site neste link: [Imersão Alura Dev]()
+Você pode ver o Projeto Principal neste link: [Imersão Alura Dev](https://nigerade.github.io/Alura-Imersao/)
 
 <br>
 
