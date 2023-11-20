@@ -9,7 +9,11 @@ Imersão em Desenvolvimento Web - Javascript
 <br>
 
 <p align="center">
-  <img style="border:2px solid black" alt="Imagem Principal" src="IMGS/IMG.png" width="100%">
+  <img style="border:2px solid black" alt="Imagem Principal" src="IMGS/IMG1.png" width="100%">
+
+  <img style="border:2px solid black" alt="Imagem Principal" src="IMGS/IMG2.png" width="100%">
+
+  <img style="border:2px solid black" alt="Imagem Principal" src="IMGS/IMG3.png" width="100%">
 </p>
 
 ---
