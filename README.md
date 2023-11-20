@@ -108,7 +108,11 @@ Tabela de Classificação. Será abordado os seguintes tópicos:
   
 <br>
 
-Você pode ver o Projeto Principal neste link: [Imersão Alura Dev](https://nigerade.github.io/Alura-Imersao/)
+Você pode ver o Projeto de Conversor de Moedas neste link: [Imersão Alura Dev](https://nigerade.github.io/Alura-Imersao/)
+<br>
+Você pode ver o Projeto de Conversor de Moedas neste link: [Imersão Alura Dev](https://nigerade.github.io/Alura-Imersao/adicionarFilme/)
+<br>
+Você pode ver o Projeto de Conversor de Moedas neste link: [Imersão Alura Dev](https://nigerade.github.io/Alura-Imersao/tabelaPontos/)
 
 <br>
 
