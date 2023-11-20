@@ -1,28 +1,31 @@
 // Aula 1 - Com exercício sugerido por IA
 
-let valorEmDolar = 30;
-let valorEmEuro = 30;
-let valorEmLibra = 30;
-let valorEmIene = 30;
+// Solicita ao usuário os valores a serem convertidos
+let valorEmDolar = parseFloat(prompt("Digite o valor em Dólares:"));
+let valorEmEuro = parseFloat(prompt("Digite o valor em Euros:"));
+let valorEmLibra = parseFloat(prompt("Digite o valor em Libras:"));
+let valorEmIene = parseFloat(prompt("Digite o valor em Ienes:"));
 
-let cotacaoDolar = 5.32;
-let cotacaoEuro = 5.25;
-let cotacaoLibra = 6.02;
+// Define as taxas de câmbio
+let cotacaoDolar = 4.85;
+let cotacaoEuro = 5.29;
+let cotacaoLibra = 6.05;
 let cotacaoIene = 0.032;
 
+// Calcula os valores em reais
+let valorEmRealDolar = (valorEmDolar * cotacaoDolar).toFixed(2);
+let valorEmRealEuro = valorEmEuro * cotacaoEuro;
+let valorEmRealLibra = valorEmLibra * cotacaoLibra;
+let valorEmRealIene = valorEmIene * cotacaoIene;
 
-let valorEmReal = valorEmDolar * cotacaoDolar;
-valorEmRealDolar = valorEmReal.toFixed(2);
+// Exibe os resultados para o usuário em uma única mensagem
+let resultado = `
+${valorEmDolar} Dólares para Reais - R$ ${valorEmRealDolar}
+${valorEmEuro} Euro para Reais - R$ ${valorEmRealEuro.toFixed(2)}
+${valorEmLibra} Libra para Reais - R$ ${valorEmRealLibra.toFixed(2)}
+${valorEmIene} Iene para Reais - R$ ${valorEmRealIene.toFixed(2)}
+`;
 
-valorEmRealEuro = valorEmEuro * cotacaoEuro;
-
-valorEmRealLibra = valorEmLibra * cotacaoLibra;
-
-valorEmRealIene = valorEmIene * cotacaoIene;
-
-alert(valorEmDolar + " Dólares para Reais - R$ " + valorEmRealDolar);
-alert(valorEmEuro + " Euro para Reais - R$ " + valorEmRealEuro);
-alert(valorEmLibra + " Libra para Reais - R$ " + valorEmRealLibra);
-alert(valorEmIene + " Iene para Reais - R$ " + valorEmRealIene);
+alert(resultado);
 
 
