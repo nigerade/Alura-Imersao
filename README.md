@@ -86,6 +86,7 @@ Utilizando o input para permitir a entrada de dados diretamente na tela, evitand
 <strong>Aula 5</strong>
 <br>
 Tabela de Classificação
+<br>
 - Remover o código estático do HTML;
 - Criar um objeto no JavaScript para cada jogador;
 - Criar uma função que receba um objeto como parâmetro para calcular os pontos;
